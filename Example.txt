@@ -1,3 +1,6 @@
 this is just an example
+<<<<<<< HEAD
+=======
 hii
+>>>>>>> origin/master
 Naresh
